@@ -60,7 +60,7 @@ body {
   background: #fff;
   border: 1px solid #999;
   float: left;
-  font-size: 24px;
+  font-size: 95px;
   font-weight: bold;
   line-height: 102px;  /* Triple the original line-height */
   height: 102px;       /* Triple the original height */
@@ -75,10 +75,15 @@ body {
   clear: both;
   content: '';
   display: table;
+  justify-content: center;
+  align-items: center;
+  
 }
 
 .status {
   margin-bottom: 10px;
+  justify-content: center;
+  align-items: center;
 }
 .game {
   display: flex;
