@@ -36,7 +36,7 @@ function Board() {
     status = "Winner: " + winner;
     setTimeout(() => {
       resetBoard();
-    }, 3000);
+    }, 10000);
   } else {
     status = "Next player: " + (xIsNext ? "X" : "O");
   }
