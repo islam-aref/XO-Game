@@ -6,3 +6,6 @@ Fewer enhancements should be made when working again on this project:
 1. Oline peer playing using a backend server.
 2. Counter for winns for each player.
 3. History for only one move prior to the current move
+
+Take a look at the project from this link:
+https://xo-game-livid.vercel.app/
